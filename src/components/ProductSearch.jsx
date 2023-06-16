@@ -71,7 +71,7 @@ const ProductSearch = () => {
   };
 
   const handleNavigateLoginPage = () =>{
-    navigate('/')
+    navigate('/ox-system')
     }
 
   return (
