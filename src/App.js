@@ -10,8 +10,8 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/ox-system" element={<LoginPage />} />
-          <Route path="/products" element={<ProductsPage />} />
-          <Route path="/search" element={<ProductSearch />} />
+          <Route path="/ox-system/products" element={<ProductsPage />} />
+          <Route path="/ox-system/search" element={<ProductSearch />} />
         </Routes>
       </Router>
     </div>
