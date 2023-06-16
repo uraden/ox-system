@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route exact path="/ox-system" element={<LoginPage />} />
+          <Route path="/ox-system" element={<LoginPage />} />
           <Route path="/ox-system/products" element={<ProductsPage />} />
           <Route path="/ox-system/search" element={<ProductSearch />} />
         </Routes>
