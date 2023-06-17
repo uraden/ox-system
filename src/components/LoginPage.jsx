@@ -53,7 +53,7 @@ const LoginPage = () => {
           position: "top-right",
           autoClose: 3000,
         });
-        navigate("/ox-system/products");
+        navigate("/products");
       } else {
         setError("Kirish muvaffaqiyatsiz tugadi. Iltimos, qayta urinib ko'ring.");
         console.log(response.error);

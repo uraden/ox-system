@@ -67,11 +67,11 @@ const ProductSearch = () => {
   const navigate = useNavigate();
 
   const handleNavigateToAnotherPage = () => {
-    navigate("/ox-system/products");
+    navigate("/products");
   };
 
   const handleNavigateLoginPage = () =>{
-    navigate('/')
+    navigate('/ox-system')
     }
 
   return (

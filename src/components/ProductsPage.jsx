@@ -55,7 +55,7 @@ const ProductsPage = () => {
   const navigate = useNavigate();
 
   const handleNavigateToAnotherPage = () =>{
-    navigate('/ox-system/search')
+    navigate('/search')
   }
 
   const handleNavigateLoginPage = () =>{
