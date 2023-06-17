@@ -59,7 +59,7 @@ const ProductsPage = () => {
   }
 
   const handleNavigateLoginPage = () =>{
-    navigate('/ox-system')
+    navigate('/')
     }
 
   return (
