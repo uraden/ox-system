@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ox-system/static/css/main.851bba17.css",
-    "main.js": "/ox-system/static/js/main.44f2ca5d.js",
+    "main.js": "/ox-system/static/js/main.852fc8bc.js",
     "static/js/787.1b1f17e9.chunk.js": "/ox-system/static/js/787.1b1f17e9.chunk.js",
     "index.html": "/ox-system/index.html",
     "main.851bba17.css.map": "/ox-system/static/css/main.851bba17.css.map",
-    "main.44f2ca5d.js.map": "/ox-system/static/js/main.44f2ca5d.js.map",
+    "main.852fc8bc.js.map": "/ox-system/static/js/main.852fc8bc.js.map",
     "787.1b1f17e9.chunk.js.map": "/ox-system/static/js/787.1b1f17e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.851bba17.css",
-    "static/js/main.44f2ca5d.js"
+    "static/js/main.852fc8bc.js"
   ]
 }
